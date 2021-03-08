@@ -1,0 +1,15 @@
+ul li{
+    list-style: none;
+}
+
+.cart-details{
+    color: #fff;
+}
+
+.cart-details h2{
+    border-bottom: 1px dashed #fff;
+}
+
+.cart-details p{
+    border-top: 1px dashed;
+}

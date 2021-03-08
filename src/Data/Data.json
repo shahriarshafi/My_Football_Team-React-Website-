@@ -1,0 +1,136 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "teamName": "Juventus",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/cristiano-ronaldo-1.jpg",
+    "salary": "12.5",
+    "jerseyNo": "07",
+    "noOfGoals": "500",
+    "nationality" : "Portuguese"
+  }, {
+    "id": 2,
+    "name": "Lionel Messi",
+    "teamName": "FC Barcelona",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/lionel-messi-2.jpg",
+    "salary": "8.3",
+    "jerseyNo": "10",
+    "noOfGoals": "450",
+    "nationality" : "Argentinian"
+  }, {
+    "id": 3,
+    "name": "Neymar",
+    "teamName": "Paris Saint-Germain F.C. ",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/neymar-1.jpg",
+    "salary": "5.1",
+    "jerseyNo": "10",
+    "noOfGoals": "440",
+    "nationality" : "Brazilian"
+  }, {
+    "id": 4,
+    "name": "Gareth Bale",
+    "teamName": "Tottenham Hotspur F.C.",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/gareth-bale-1.jpg",
+    "salary": "3.4",
+    "jerseyNo": "09",
+    "noOfGoals": "200",
+    "nationality" : "British"
+  }, {
+    "id": 5,
+    "name": "Kylian Mbappé",
+    "teamName": "Paris Saint-Germain F.C.",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/kylian-mbapp-1.jpg",
+    "salary": "3.2",
+    "jerseyNo": "07",
+    "noOfGoals": "200",
+    "nationality" : " French"
+  }, {
+    "id": 6,
+    "name": "Paul Pogba",
+    "teamName": "Manchester United F.C.",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/paul-pogba-4.jpg",
+    "salary": "2.9",
+    "jerseyNo": "06",
+    "noOfGoals": "400",
+    "nationality" : "French"
+  }, {
+    "id": 7,
+    "name": "Ronaldinho",
+    "teamName": "FC Barcelona",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/ronaldinho-4.jpg",
+    "salary": "1.0",
+    "jerseyNo": "10",
+    "noOfGoals": "800",
+    "nationality" : "Brazilian"
+  }, {
+    "id": 8,
+    "name": "Zlatan Ibrahimović",
+    "teamName": "A.C. Milan",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/zlatan-ibrahimovi-1.jpg",
+    "salary": "1.6",
+    "jerseyNo": "11",
+    "noOfGoals": "380",
+    "nationality" : "Swedish"
+  }, {
+    "id": 9,
+    "name": "Harry Kane",
+    "teamName": "Tottenham Hotspur F.C",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/harry-kane-1.jpg",
+    "salary": "1.4",
+    "jerseyNo": "10",
+    "noOfGoals": "600",
+    "nationality" : "British"
+  }, {
+    "id": 10,
+    "name": "Gerard Piqué",
+    "teamName": "FC Barcelona",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/gerard-piqu-1.jpg",
+    "salary": "0.9",
+    "jerseyNo": "03",
+    "noOfGoals": "300",
+    "nationality" : "Spanish"
+  }, {
+    "id": 11,
+    "name": "Eden Hazard",
+    "teamName": "Real Madrid C.F",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/eden-hazard-1.jpg",
+    "salary": "1.0",
+    "jerseyNo": "07",
+    "noOfGoals": "550",
+    "nationality" : "Belgian"
+  }, {
+    "id": 12,
+    "name": "Robert Lewandowski",
+    "teamName": "Bayern Munich",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/robert-lewandowski-2.jpg",
+    "salary": "1.0",
+    "jersey_no": "09",
+    "noOfGoals": "500",
+    "nationality" : "Polish"
+  }, {
+    "id": 13,
+    "name": "Pierre-Emerick Aubameyang",
+    "teamName": "Arsenal F.C.",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/pierre-emerick-aubameyang-1.jpg",
+    "salary": "0.9",
+    "jerseyNo": "14",
+    "noOfGoals": "430",
+    "nationality" : "Gabonese"
+  }, {
+    "id": 14,
+    "name": "Romelu Lukaku",
+    "teamName": "Inter Milan ",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/romelu-lukaku-1.jpg",
+    "salary": "1.4",
+    "jerseyNo": "09",
+    "noOfGoals": "650",
+    "nationality" : "Belgian"
+  }, {
+    "id": 15,
+    "name": "Antoine Griezmann",
+    "teamName": "FC Barcelona",
+    "image": "https://www.thefamouspeople.com/profiles/thumbs/antoine-griezmann-4.jpg",
+    "salary": "1.5",
+    "jersey_no": "09",
+    "noOfGoals": "650",
+    "nationality" : " French"
+  }]
